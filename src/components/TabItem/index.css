@@ -1,0 +1,14 @@
+/* Write your CSS here */
+.tab-list-item {
+  margin: 10px;
+}
+.button-item {
+  outline: none;
+  border: none;
+  color: grey;
+  cursor: pointer;
+}
+.active-tab {
+  color: #2563eb;
+  box-shadow: 0 2px 0 0;
+}
